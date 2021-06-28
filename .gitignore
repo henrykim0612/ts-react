@@ -13,6 +13,11 @@
 /response-check/package-lock.json
 /response-check/dist
 
+/Lotto/node_modules/
+/Lotto/Lotto.iml
+/Lotto/package-lock.json
+/Lotto/dist
+
 /RCP/node_modules/
 /RCP/RCP.iml
 /RCP/package-lock.json
