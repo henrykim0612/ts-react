@@ -23,4 +23,6 @@ useState<TryInfo[]>([]) // TryInfo 는 interface 로 정의
 - 컴퍼넌트가 React.memo()로 래핑 될 때, React는 컴퍼넌트를 렌더링하고 결과를 메모이징(Memoizing)한다. 그리고 다음 렌더링이 일어날 때 props가 같다면,
   React는 메모이징(Memoizing)된 내용을 재사용한다.
 - 서브 컴포넌트에 memo() 적용하고 타입핑  
+###6. 틱택토
+- Typescript ESLint 적용
   

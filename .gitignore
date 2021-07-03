@@ -23,4 +23,19 @@
 /RCP/package-lock.json
 /RCP/dist
 
+/TicTacToe/node_modules/
+/TicTacToe/TicTacToe.iml
+/TicTacToe/package-lock.json
+/TicTacToe/dist
+
+/babel-test/node_modules/
+/babel-test/babel-test.iml
+/babel-test/package-lock.json
+/babel-test/dist
+
+/webpack-test/node_modules/
+/webpack-test/webpack-test.iml
+/webpack-test/package-lock.json
+/webpack-test/dist
+
 .idea
