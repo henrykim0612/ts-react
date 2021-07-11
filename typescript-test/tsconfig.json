@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+//    "allowJs": true,
+//    "checkJs": true, // aloowJs 와 세트
     "strict": true,
     "lib": ["es2020", "dom"],
     "jsx": "react",

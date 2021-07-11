@@ -38,4 +38,14 @@
 /webpack-test/package-lock.json
 /webpack-test/dist
 
+/typescript-test/node_modules/
+/typescript-test/typescript-test.iml
+/typescript-test/package-lock.json
+/typescript-test/dist
+
+/mine-sweeper/node_modules/
+/mine-sweeper/mine-sweeper.iml
+/mine-sweeper/package-lock.json
+/mine-sweeper/dist
+
 .idea
