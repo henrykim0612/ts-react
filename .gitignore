@@ -48,4 +48,14 @@
 /mine-sweeper/package-lock.json
 /mine-sweeper/dist
 
+/router-test/node_modules/
+/router-test/router-test.iml
+/router-test/package-lock.json
+/router-test/dist
+
+/redux-test/node_modules/
+/redux-test/redux-test.iml
+/redux-test/package-lock.json
+/redux-test/dist
+
 .idea

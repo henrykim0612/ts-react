@@ -1,0 +1,38 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "es2017": true,
+    "es2020": true,
+    "es2021": true
+  },
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "airbnb-typescript"
+  ],
+  "plugins": [
+    "import",
+    "react-hooks"
+  ],
+  "rules": {
+    "linebreak-style": "off",
+    "no-console": "off",
+    "no-underscore-dangle": "off",
+    "object-curly-newline": "off",
+    "react/forbid-prop-types": "off",
+    "react/jsx-filename-extension": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "no-param-reassign": "off",
+    "max-len": "off",
+    "react/prop-types": "off",
+    "import/no-cycle": "off"
+  }
+}

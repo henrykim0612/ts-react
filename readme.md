@@ -25,4 +25,5 @@ useState<TryInfo[]>([]) // TryInfo 는 interface 로 정의
 - 서브 컴포넌트에 memo() 적용하고 타입핑  
 ###6. 틱택토
 - Typescript ESLint 적용
-  
+###7. redux-text
+- Redux Thunk 를 쓰는 이유는 하나의 액션에서 여러개의 액션을 동시에 Dispatch 하고 싶을 경우에 사용함.(Redux thunk 가 액션을 함수화 시키는 모듈임)
