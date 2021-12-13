@@ -58,4 +58,9 @@
 /redux-test/package-lock.json
 /redux-test/dist
 
+/brython-mock/node_modules/
+/brython-mock/redux-test.iml
+/brython-mock/package-lock.json
+/brython-mock/dist
+
 .idea
